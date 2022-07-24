@@ -1,0 +1,20 @@
+
+#container {
+    display: flex;
+    flex-direction: column; 
+    gap: 8px;
+}
+
+.DivContainer {
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.DivContainerItem {
+    background-color: blue;
+    border: 4ps solid black;
+    height: 100px;
+    width: 100px;
+}
